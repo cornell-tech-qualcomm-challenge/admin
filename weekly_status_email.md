@@ -12,3 +12,7 @@ Summarize your plans for the upcoming week. What meaningful progress do you plan
 
 ### Risks
 Call out any current risks, challenges, and blockers. What are you doing to address these risks?
+
+Send email to stakeholders:
+- TECH-PRODUCT-STUDIO-SECTION-2-L@list.cornell.edu
+
