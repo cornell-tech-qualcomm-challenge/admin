@@ -1,0 +1,24 @@
+ Anand, 
+
+In order to keep you updated with the development of our product, we will be sending out weekly summary mails (similar to this) that highlight the progress made during the previous week, plans for the week to follow and potential risks/challenges that we will face. 
+
+Progress for this week (8/28-9/3):
+Defined "credibility" and the parameters required to measure it.
+Set up meeting with you to present our thoughts.
+Developed a system diagram to represent the manner in which we see the product being leveraged.
+Created user stories to help broadly define how our product will be utilized.
+Brainstormed the first set of possible implementations.
+
+Plans for next week (9/4-9/10):
+Prepare for Tuesdays meeting.
+Delve deeper into the demographic we want to target.
+Develop a deeper/more detailed understanding of how users will interact with our product by developing on our user stories.
+Have a better idea about the technical infrastructure required to develop our product. 
+
+Potential Risks:
+We do not fully understand the details about how our product will work and so are unsure about potential technical hurdles we may face in the future. 
+
+We hope this will be a useful tool to help us track development and keep you notified of our progress. 
+
+Thank you,
+Team Qualcomm 

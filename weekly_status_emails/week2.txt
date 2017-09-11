@@ -1,0 +1,21 @@
+ Anand, 
+
+At the end of this week , Team Qualcomm will be participating in its first sprint. We will devote a major portion of the day, devoid of other distractions, to working on our product. Our goal for the sprint is to pick a feature of our product and develop a working prototype. 
+
+Progress for this week (9/4-9/10):
+Conducted meeting with you to inform you about our ideas and have them vetted 
+Defined long term goal of working prototype by the end of the semester
+Updated our system diagrams to include new developments in our thought
+Created narratives to help portray our softwares usage
+Plans for next week (9/11-9/17):
+Meet on Wednesday to narrow our focus further and set goals for our sprint
+Our first sprint at the end of this week after which we will create a presentation to share with you 
+Meet with our advisor (Hannah Donovan) on Thursday to gain insight on our progress so far 
+Send out our CSP agreements in order for you to sign them. 
+Potential Risks:
+Creating a small enough task to be able to tackle at our first sprint 
+Failing to define the scope of our product quick enough which may leave us struggling at the end of the semester.  
+We will keep you updated of our progress after the sprint!
+
+Thank you,
+Team Qualcomm 
