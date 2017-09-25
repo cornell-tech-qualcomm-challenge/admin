@@ -1,0 +1,32 @@
+Hi Anand, 
+
+Please find our weekly update below. 
+
+Progress for this week (9/18-9/24):
+
+Our meeting on Tuesday was very fruitful.  The highlights our below :
+
+AR business card has two insurmountable stumbling blocks that came out in our smile tests  : 
+     Interactions will seem fake and somewhat forced. 
+     Scanning peoples faces will not work if we have to utilize a phone. Google glass is better supported for this.
+
+Credibility in journalism is a major problem and we recognized certain characteristics that can be used to measure it:
+     Number of articles written about within a particular topic. 
+     Sentiment analysis of the comments belonging to that article. 
+     Credibility of coauthors the journalist works with on a particular topic (measured by these three points). 
+
+Developed an architecture diagram for what this would look like
+Conducted a shallow feasibility study for whether this would work (i.e. identified elements of our software stack)
+
+Plans for next week (9/25-10/1):
+Plan and execute a call with you to get your feedback on our new idea
+Develop a pitch deck for our 'crit event' - an event where we pitch our idea to be critiqued 
+More in-depth analysis of feasibility (i.e. what portion of this processing can be handled locally on the phone and how much needs to be pushed to the cloud). 
+Plan and execute a call with Arnaud Sahuguet to get your feedback on our new idea
+
+Potential Risks:
+Require CSP agreement signed
+We may have to position this more of a feature within NYT reader versus a product by itself. 
+
+Thank you,
+Team Qualcomm 

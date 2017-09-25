@@ -1,0 +1,22 @@
+Hi Anand, 
+
+Please find our weekly update below. 
+
+Progress for this week (9/11-9/17):
+On Wednesday we unpacked the problem further and realized there are two facets to credibility in the content we are analysing - fact based and opinion based. After our initial fact based approach we realized there is  value in experimenting with the latter approach (i.e. providing users with relevant information about the subject in order for them to  discern credibility for themselves). 
+At our sprint, we wanted to test this idea. To do so, we did the following :
+        Brainstormed the idea of providing attendees at a networking event with background information about other people (i.e. previous jobs, education, interests)
+        Conducted smile tests with people at the sprint to gauge interest.
+        Put together a small prototype that utilises facial recognition to identify people and display relevant information to the user.
+       You can find more detail in the following deck.
+
+Plans for next week (9/18-9/24):
+Meet on Tuesday to narrow our ideas down and conduct a detailed analysis to ensure they are feasible.
+Conduct smile tests for the ideas that we narrow down to ensure we are on the right track
+Schedule a meeting with you to present the outcome of our Tuesday meeting + dive deeper into our new line of thought.
+
+Potential Risks:
+Being unable to quickly arrive at a consensus on which idea to choose.
+
+Thank you,
+Team Qualcomm 
