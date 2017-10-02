@@ -1,0 +1,21 @@
+Hi Anand, 
+
+Thanks again for your time on Thursday. It really helped us to hear your views. 
+Please find our weekly update below. 
+
+Progress for this week (9/25-10/1):
+Created script to begin dumping metadata for NYT journalists 
+Spoke with our advisor, Hannah Donovan, who helped us narrow in on a more detailed narrative
+Our narrative: "As a reader I can extract information about a journalist so that I can have a more informed (well rounded) opinion on any given topic"
+Create user interviews to gain more insight into whether people would utilise this product or not. You can find our results here   
+
+Plans for next week (10/2-10/8):
+Create our pitch deck for crit
+Plan and execute a call with Arnaud Sahuguet to get feedback on our new idea. 
+Design user experiment to mimic a situation where a user is asked to identify fake news before and after being exposed to information about the journalist. This will help provide insight into how a user debunks an article as well as which information is important in order for them to be able to do so.
+Potential Risks:
+NYTs data may not have enough instances of journalists that lack credibility in a certain topic.
+
+Thank you,
+Team Qualcomm 
+
