@@ -1,0 +1,19 @@
+Hi Anand, 
+
+Please find our weekly update below. 
+
+Progress for this week (9/25-10/1):
+Our pitch deck for our crit presentations can be found here 
+Along with this we made an iteration on our product loop (We will keep iterating on this deck in the future)
+We have taken the findings from crit and are more confident with the type of user experiment we want to run. You can find our findings here 
+
+Plans for next week (10/2-10/8):
+Prepare for sprint 2 which is this Thursday/Friday. This means :
+Preparing and Conducting our user experiments 
+Designing prototype to demonstrate functionality of our software
+Solidifying our means of content delivery (i.e. app, browser etc.)
+Potential Risks:
+Our user experiments could show a lack of interest in which case we will need to pivot once again.
+
+Thank you,
+Team Qualcomm 
