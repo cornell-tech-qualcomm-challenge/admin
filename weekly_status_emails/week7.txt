@@ -1,0 +1,23 @@
+ Anand, 
+We hope you had a great weekend!
+
+Please find our weekly update below. 
+
+Progress for this week (10/9-10/15):
+We conducted our second sprint and built a small prototype to demonstrate our narrative complete product (NCP). You can find our presentation here 
+We solidified the mechanics of our backend and would love to present this to you at our next call. 
+We also wrestled with another concept that utilizes a newsreader's/ article reader's social network to recommend connections you have that may be experts (relative to you) at the topic you are currently reading about.
+
+Plans for next week (10/16-10/22):
+Meeting with our studio professor on Tuesday to update and validate
+We would love to get your opinion on two things this week
+Our progress on our NCP - backend architecture  as well as the user experience
+The second idea we wrestled with at sprint.
+ Now that we have a prototype, we would like to have people interact with it to gain more relevant feedback 
+
+Potential Risks:
+
+Our prototype scratches the surface of the scope of our project. We may need to revisit our scope and redefine the product to target a specific type of news / specific type of demographic. 
+
+Thank you,
+Team Qualcomm 
