@@ -1,0 +1,17 @@
+ Anand, 
+
+Hope you had a great weekend! Our call really helped put us in the right track and we have begun moving forward with the ideas we laid out.
+
+Progress for this week (10/16-10/22):
+We designed a user survey that matches our new concept and have begun collecting responses. You can view that here and here. The first is the survey we sent out online while the second focuses more on qualitative feedback we got from face to face meetings. 
+We began designing a user interface which you can see here
+
+Plans for next week (10/16-10/22):
+Finalize our week by week development goals to ensure we stay on track 
+Use our latest user findings to figure out how to tweak our product 
+Continue Development
+
+Potential Risks:
+Not laying out realistic development goals.
+
+Interesting link of the week: Hacker News ranking algorithm 
