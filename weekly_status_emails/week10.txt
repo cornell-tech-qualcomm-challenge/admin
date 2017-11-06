@@ -1,0 +1,24 @@
+Hi Anand, 
+
+Thanks again for the call last week. The team is excited with the direction we are moving in!
+
+Please find our weekly update below. 
+
+Progress for this week (10/30-11/05):
+Completed our second crit session where professionals in industry provided us feedback on our product. Please find those here.
+Narrowed down our domain towards academia. Build out our network of credibility using academic papers and linking authors to the papers they reference. 
+Started development of the credibility scoring algorithm which you can see here 
+For example,  for 10 authors (marked by 0-9 key values) within the blockchain topic we can generate these relative scores : {0: 0.50902821656473674, 1: 0.48676598454587383, 2: 0.74990614482307083, 3: 0.67845799296422804, 4: 0.33410090213481264, 5: 0.32250912967505019, 6: 0.5752200375053016, 7: 0.42797709292693698, 8: 0.58175768688763618, 9: 0.32320539477201943}    
+
+Plans for next week (11/06-11/12):
+Index information from the  database of academic papers - i.e. write out our script to collect information and store
+Further develop the scoring algorithm in parallel 
+Start looking at ways in which our product can enter other domains as well as our strategy for generating revenue. 
+
+Potential Risks:
+
+We do not have a clear idea of how our user interface will fit into this. Do we want to overlay on existing articles (like a chrome extension) or do we want to be a separate platform that provides in depth stats to our users regarding their  value in the network.  
+Interesting link of the week : Check out CORE - Online aggregator of open source research docs
+
+Thank you,
+
