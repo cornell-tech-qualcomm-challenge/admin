@@ -1,0 +1,23 @@
+Hi Anand, 
+Please find our weekly update below. 
+
+Progress for this week (11/06-11/12):
+Our research into  utilising academic journals provided us the following insight :
+User research (i.e. professors) are less likely to brandish a "credit score" and are more interested in having metrics on citations. 
+Readers of journals have the same view as readers of CNN - no need for credibility. 
+After many meetings with various people on campus, we have modified our existing infrastructure to work within a different domain. 
+We will overlay our solution on existing platforms (Medium) through the use of a chrome extension.
+After research, it is possible for us to scrape data from Medium and still provide an NCP. Find our code here 
+This addresses the lack of content problem and the utility problem (i.e. will people really use this).
+It modifies our business use case which we would like to speak with you about during sprint on either Thursday or Friday. Would you have some time that works for you on those days?
+We also created a 45 second video highlighting our narrative and explicitly stating what we are and are not building. Find this here  (Slides 34-36) 
+Plans for next week (11/13-11/19):
+Build our front end - It is key for us to demonstrate user interaction over building out an overly complex backend infrastructure.
+Highlight clearly our plan for revenue generation. 
+Prepare our deck for Sprint 3 on Thursday/Friday
+Potential Risks:
+ Since we are back to a more open domain (i.e. medium vs academic journals) , it puts the idea of interacting with friends back on the table. This is a difficult facet to design for considering our real estate on a screen as a chrome extension. We will need to be very careful and economical with how we do this. 
+
+Interesting link of the week : Import.io - a great scraping tool!
+ 
+Thank you,

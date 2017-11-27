@@ -1,0 +1,21 @@
+Hi Anand, 
+Please find our weekly update below. 
+
+Progress for this week (11/13-11/19):
+Conducted our final sprint 
+We presented the following :
+Video  Demo 
+Presentation 
+Scraped medium for sample data
+Plans for next week (11/20-11/26):
+
+Scrape majority of medium data to test our scaling 
+Build out more of the front end to capture entirety of the consumer journey
+Prepare our final slides for the presentation on November 28th
+
+Potential Risks:
+
+At this point, we have minimal risk. We simply have to manage our time well and execute the plan we have in mind. 
+
+ 
+Thank you,
